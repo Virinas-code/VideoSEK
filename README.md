@@ -8,6 +8,7 @@ Download [Latest Version](https://github.com/Virinas-code/VideoSEK/raw/master/di
 Download
 - [Latest Version](https://github.com/Virinas-code/VideoSEK/404)
 - [Latest Release](https://github.com/Virinas-code/VideoSEK/404)
+
 #### Linux
 ##### Requirements: __64-bit x86 computers__
 Download
