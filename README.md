@@ -3,16 +3,16 @@
 ### All Platforms
 Download [Latest Version](https://github.com/Virinas-code/VideoSEK/raw/master/dist/html/VideoSEK.html) and open the file.
 ### Windows
-**:warning: Windows support not tested**  
-Download [Latest Release](https://github.com/Virinas-code/VideoSEK/releases/download/v1/win.zip)
-Extract the archive
-Run `videosek.exe`
+**Windows support not tested**  
+1. Download [Latest Release](https://github.com/Virinas-code/VideoSEK/releases/download/v1/win.zip)
+2. Extract the archive
+3. Run `videosek.exe`
 
 ### Linux
 #### Requirements: __64-bit x86 computers__
-Download [Latest Release](https://github.com/Virinas-code/VideoSEK/releases/download/v1/linux.tar.gz)
-Extract the archive
-Run `start.sh`
+1. Download [Latest Release](https://github.com/Virinas-code/VideoSEK/releases/download/v1/linux.tar.gz)
+2. Extract the archive
+3. Run `start.sh`
 
 ## Changelog
 ### v1
